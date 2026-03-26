@@ -1,0 +1,49 @@
+{
+  "lives": [
+    {
+      "name": "央视卫视·主线路",
+      "type": 0,
+      "url": "https://gitee.com/klptv/mytv/raw/master/live.txt",
+      "epg": "https://epg.112114.xyz/epg.xml",
+      "logo": "https://epg.112114.xyz/logo/{channel}.png"
+    },
+    {
+      "name": "备用·流畅线路",
+      "type": 0,
+      "url": "https://epg.pw/api/tv/live.txt",
+      "epg": "https://epg.112114.xyz/epg.xml",
+      "logo": "https://epg.112114.xyz/logo/{channel}.png"
+    }
+  ],
+  "spider": [
+    {
+      "name": "4K蓝光影院",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ke-ming/tvbox/main/4k.txt",
+      "search": 1,
+      "quickSearch": 1
+    },
+    {
+      "name": "高分影视合集",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ke-ming/tvbox/main/gf.txt",
+      "search": 1,
+      "quickSearch": 1
+    },
+    {
+      "name": "短剧&综艺",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ke-ming/tvbox/main/dj.txt",
+      "search": 1,
+      "quickSearch": 1
+    }
+  ],
+  "parse": [
+    {"name":"解析1","url":"https://jx.yangqq.cc/?url="},
+    {"name":"解析2","url":"https://jx.yingtool.com/?url="},
+    {"name":"解析3","url":"https://parse.qqying.cc/?url="},
+    {"name":"解析4","url":"https://jx.1718cx.com/?url="}
+  ],
+  "wallpaper": "https://pan.henai.eu.org/api/raw/?path=/Picture/TVBox/2.jpg",
+  "poster": "https://pan.henai.eu.org/api/raw/?path=/Picture/TVBox/logo.png"
+}
