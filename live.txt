@@ -465,22 +465,6 @@ LY1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
 
 4 K& 精 品,#genre#
 
-CCTV文化精品,http://183.236.43.98:4111/udp/239.253.43.13:5146
-文化精品高清,http://120.6.120.174:8088/rtp/239.253.92.25:6104
-兵器科技高清,http://120.6.120.174:8088/rtp/239.253.93.47:6435
-世界地理高清,http://120.6.120.174:8088/rtp/239.253.92.131:6113
-文物宝库高清,http://120.6.120.174:8088/rtp/239.253.93.180:6437
-女性时尚高清,http://120.6.120.174:8088/rtp/239.253.92.144:6114
-文化精品高清,http://120.6.120.174:8088/rtp/239.253.93.175:6439
-梨园高清,http://120.6.120.174:8088/rtp/239.253.93.133:6441
-CCTV-4K,http://120.6.120.174:8088/rtp/239.253.93.134:6631
-CHC动作电影,http://39.65.106.139:4000/udp/239.253.254.153:8000
-CHC高清电影,http://39.65.106.139:4000/udp/239.253.254.154:8000
-CHC家庭影院,http://39.65.106.139:4000/udp/239.253.254.152:8000
-
-CHC家庭影院,http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
-CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
-CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 
 
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -491,54 +475,7 @@ CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
-文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-WENHUA-CQ
-文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
-央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
-风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
-第一剧场,http://tl.061833.xyz/tl/null-6
-第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
-风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
-风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
-怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
-怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
-女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
-高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
-高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
-风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
-兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 
-CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV6电影,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
-CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775211798&major_anchor_level=common&sign=cfc21c487d157542478c47cc726e2a21&t_id=037-2026032718231816AA923811AD6B16D7AE-LeUbi2
-CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775211853&major_anchor_level=common&sign=cadba0c68d88105c1d39d026edfdb35a&t_id=037-202603271824129C42AF521B06180D3BE1-UgxVg3
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -548,10 +485,6 @@ CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m
 两  岸  三 地,#genre#
 
 凤凰卫视,http://223.95.198.3:8000/hls/20/index.m3u8
-Channel [V],http://36.36.200.196:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://36.36.200.196:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-明珠台,http://36.36.200.196:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-
 
 
 
@@ -691,21 +624,7 @@ CCTV17,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081
 贵州卫视,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000329/index.m3u8
 辽宁卫视,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/index.m3u8
 黑龙江卫视 7M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000306/index.m3u8
-Hot亚洲影院限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002005/index.m3u8
-Hot探索记录限免 5M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002006/index.m3u8
-Hot漫游世界限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002007/index.m3u8
-Hot欧美影院限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002003/index.m3u8
-Hot风尚音乐限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002015/index.m3u8
-Hot少儿动漫限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002017/index.m3u8
-Hot精彩影视限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002012/index.m3u8
-Hot精品剧场限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002014/index.m3u8
-SiTV全纪实限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002016/index.m3u8
-SiTV动漫秀场,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002000/index.m3u8
-SiTV极速汽车,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002001/index.m3u8
-SiTV欢笑剧场下线,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002004/index.m3u8
-SiTV法治天地限免 6M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002010/index.m3u8
-SiTV金色频道限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002018/index.m3u8
-SiTV生活时尚限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002019/index.m3u8
+
 天天剧场限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002008/index.m3u8
 天天探索限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002009/index.m3u8
 天天影院限免,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002011/index.m3u8
