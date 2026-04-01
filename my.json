@@ -2,18 +2,18 @@
   "urls": [
     {
       "name": "🏠 自用直播源",
-      "url": "https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/live.txt"
+      "url": "https://git.domob.org/https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/live.txt"
     },
     {
       "name": "🎬 优质影视源",
-      "url": "https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/vod.txt"
+      "url": "https://git.domob.org/https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/vod.txt"
     }
   ],
   "lives": [
     {
       "name": "klpofmail直播",
       "type": "0",
-      "url": "https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/live.txt",
+      "url": "https://git.domob.org/https://raw.githubusercontent.com/klpofmail/mytv/refs/heads/main/live.txt",
       "epg": "https://epg.112114.xyz/epg.xml",
       "logo": "https://epg.112114.xyz/logo/{channel}.png"
     }
