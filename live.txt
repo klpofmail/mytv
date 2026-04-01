@@ -231,7 +231,7 @@ CCTV5+,http://120.211.62.180:8000/hls/18/index.m3u8
 
 
 
-山东移动央视&地方,#genre#
+鲁移央&地,#genre#
 CCTV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
@@ -431,7 +431,7 @@ CHC动作电影 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/inde
 陕西农林卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8
 
 
-其他山东移动,#genre#
+鲁移其他,#genre#
 
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 山东新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
@@ -508,7 +508,7 @@ SiTV都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/inde
 
 
 
-山东移动地方,#genre#
+鲁移地方,#genre#
 
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 山东生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8
@@ -699,10 +699,6 @@ LY1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
 
 
 
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-苏州4Khttps://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-LOVE NATURE 4K,https://lbl.netmedya.net/hls/lalegultv.m3u8
-CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
 
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
